@@ -1,0 +1,28 @@
+INVOICE
+
+Invoice No: INV-1042
+Date: 2026-10-01
+Due Date: 2026-10-15
+
+From:
+ABC Services Pvt. Ltd.
+12 MG Road, Bengaluru - 560001
+GSTIN: 29ABCDE1234F1Z5
+
+To:
+XYZ Solutions
+45 Anna Salai, Chennai - 600002
+
+Description                     Qty    Rate       Amount
+--------------------------------------------------------------
+Software Consulting Services     1    ₹12,500    ₹12,500
+--------------------------------------------------------------
+                                         Total: INR 12,500
+
+Payment Instructions:
+Bank: State Bank of India
+Account No: XXXX-XXXX-1234
+IFSC: SBIN0001234
+
+Please remit payment by 15 October 2026.
+For queries: accounts@abcservices.com
